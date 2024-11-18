@@ -1,0 +1,10 @@
+body { 
+    color: white;
+    background: black;
+    margin: Opx;
+    font-family: "Chakra petch" , sans-serif;
+    margin-bottom: 100px;
+}
+
+header { 
+    boder-bottom: solid 2px rgb(42, 122, 228);
